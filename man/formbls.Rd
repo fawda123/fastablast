@@ -15,9 +15,7 @@ formbls(flin, flout = NULL)
 Get relevant BLAST data from output file
 }
 \examples{
-\dontrun{
 flin <- 'inst/bls_ex.txt'
 formbls(flin)
-}
 }
 

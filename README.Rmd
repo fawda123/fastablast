@@ -23,7 +23,7 @@ library(fastblast)
 ```
 ```{r eval = T, echo = F, results = F, message = F}
 devtools::load_all()
-````
+```
 
 ## Using the functions
 
