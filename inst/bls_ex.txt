@@ -1,0 +1,1142 @@
+BLASTN 2.6.1+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and
+Webb Miller (2000), "A greedy algorithm for aligning DNA
+sequences", J Comput Biol 2000; 7(1-2):203-14.
+
+
+RID: J698PH5U014
+
+
+Database: Nucleotide collection (nt)
+           42,447,360 sequences; 145,634,228,515 total letters
+Query= Otu000001|153796|
+
+Length=123
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+LC037442.1  Gomphonema parvulum gene for 18S ribosomal RNA, pa...  226     9e-56
+KJ961664.1  Gomphonema sp. 117 18S ribosomal RNA gene, partial...  226     9e-56
+KJ961663.1  Gomphonema sp. 12 18S ribosomal RNA gene, partial ...  226     9e-56
+KJ011666.1  Gomphonema subclavatum strain FD108 18S ribosomal ...  226     9e-56
+KJ011665.1  Gomphonema subclavatum strain FD98 18S ribosomal R...  226     9e-56
+KJ011659.1  Gomphonema parvulum strain FD240 18S ribosomal RNA...  226     9e-56
+KJ011658.1  Gomphonema intricatum strain FD383 18S ribosomal R...  226     9e-56
+KJ011655.1  Gomphonema dichotomum strain FD288 18S ribosomal R...  226     9e-56
+KJ011654.1  Gomphonema carolinense strain FD285 18S ribosomal ...  226     9e-56
+KJ011653.1  Gomphonema brebissonii strain FD373 18S ribosomal ...  226     9e-56
+
+ALIGNMENTS
+>LC037442.1 Gomphonema parvulum gene for 18S ribosomal RNA, partial sequence, 
+strain: NIES-467
+Length=1689
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1565  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1624
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1625  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1684
+
+Query  122   TG  123
+             ||
+Sbjct  1685  TG  1686
+
+
+>KJ961664.1 Gomphonema sp. 117 18S ribosomal RNA gene, partial sequence
+Length=1773
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1610  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1669
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1670  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1729
+
+Query  122   TG  123
+             ||
+Sbjct  1730  TG  1731
+
+
+>KJ961663.1 Gomphonema sp. 12 18S ribosomal RNA gene, partial sequence
+Length=1775
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1609  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1668
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1669  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1728
+
+Query  122   TG  123
+             ||
+Sbjct  1729  TG  1730
+
+
+>KJ011666.1 Gomphonema subclavatum strain FD108 18S ribosomal RNA gene, partial 
+sequence
+Length=1719
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1598  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1657
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1658  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1717
+
+Query  122   TG  123
+             ||
+Sbjct  1718  TG  1719
+
+
+>KJ011665.1 Gomphonema subclavatum strain FD98 18S ribosomal RNA gene, partial 
+sequence
+Length=1740
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1603  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1662
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1663  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1722
+
+Query  122   TG  123
+             ||
+Sbjct  1723  TG  1724
+
+
+>KJ011659.1 Gomphonema parvulum strain FD240 18S ribosomal RNA gene, partial 
+sequence
+Length=1722
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1597  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1656
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1657  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1716
+
+Query  122   TG  123
+             ||
+Sbjct  1717  TG  1718
+
+
+>KJ011658.1 Gomphonema intricatum strain FD383 18S ribosomal RNA gene, partial 
+sequence
+Length=1738
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1600  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1659
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1660  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1719
+
+Query  122   TG  123
+             ||
+Sbjct  1720  TG  1721
+
+
+>KJ011655.1 Gomphonema dichotomum strain FD288 18S ribosomal RNA gene, partial 
+sequence
+Length=1722
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1599  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1658
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1659  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1718
+
+Query  122   TG  123
+             ||
+Sbjct  1719  TG  1720
+
+
+>KJ011654.1 Gomphonema carolinense strain FD285 18S ribosomal RNA gene, partial 
+sequence
+Length=1725
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1602  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1661
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1662  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1721
+
+Query  122   TG  123
+             ||
+Sbjct  1722  TG  1723
+
+
+>KJ011653.1 Gomphonema brebissonii strain FD373 18S ribosomal RNA gene, partial 
+sequence
+Length=1720
+
+ Score = 226 bits (122),  Expect = 9e-56
+ Identities = 122/122 (100%), Gaps = 0/122 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1597  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGACTCGGGATTGTGAG  1656
+
+Query  62    TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1657  TGTTGCCTTCACTGGTGATGTTTGCAAGAACTTGTCTAAACCTTATCATTTAGAGGAAGG  1716
+
+Query  122   TG  123
+             ||
+Sbjct  1717  TG  1718
+
+
+Query= Otu000002|
+
+Length=128
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+AB704954.1  Tanytarsus sp. ent10 genes for 18S rRNA, ITS1 and ...  193     9e-46
+KC177280.1  Chironomus tepperi 18S ribosomal RNA gene, partial...  158     3e-35
+X99212.1  Chironomus tentans partial 18S rRNA gene, 5.8S rRNA ...  158     3e-35
+AY821866.1  Dicrotendipes fumidus 18S ribosomal RNA gene, part...  152     2e-33
+AJ586561.1  Acricotopus lucens partial 18S rRNA gene, clone Al...  152     2e-33
+AB704953.1  Polypedilum tamanigrum genes for 18S rRNA, ITS1 an...  137     4e-29
+LN833602.1  Clunio marinus genomic DNA sequence contains 18S r...  132     2e-27
+AB704950.1  Polypedilum cultellatum genes for 18S rRNA, ITS1 a...  132     2e-27
+AB704948.1  Paraborniella tonnoiri genes for 18S rRNA, ITS1 an...  126     1e-25
+AB704958.1  Paratanytarsus grimmii genes for 18S rRNA, ITS1 an...  124     3e-25
+
+ALIGNMENTS
+>AB704954.1 Tanytarsus sp. ent10 genes for 18S rRNA, ITS1 and 5.8S rRNA, 
+partial and complete sequence, isolate: ent10
+Length=449
+
+ Score = 193 bits (104),  Expect = 9e-46
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  25   CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACACGACGGTGTTTCGGCACTGTTGT  84
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACACGACGGTGTTTCGGCACTGTTGT  60
+
+Query  85   TGCTTCGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  128
+            ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   TGCTTCGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  104
+
+
+>KC177280.1 Chironomus tepperi 18S ribosomal RNA gene, partial sequence
+Length=1907
+
+ Score = 158 bits (85),  Expect = 3e-35
+ Identities = 114/128 (89%), Gaps = 1/128 (1%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACA  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  1754  GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTAAACA  1813
+
+Query  62    CGACGGTGTTTCGGCACTGTTGTTGC-TTCGCCAAAGTTGATCAAACTTGATGATTTGGA  120
+                || ||  |||| | ||   |||| || ||||||||||||||||||||||||||||||
+Sbjct  1814  TTGCGATGCCTCGGTATTGCGATTGCTTTTGCCAAAGTTGATCAAACTTGATGATTTGGA  1873
+
+Query  121   GGAAATAA  128
+             ||||||||
+Sbjct  1874  GGAAATAA  1881
+
+
+>X99212.1 Chironomus tentans partial 18S rRNA gene, 5.8S rRNA gene, partial 
+28S rRNA gene, internal transcribed spacers 1 and 2 and 
+intergenic spacer
+Length=8447
+
+ Score = 158 bits (85),  Expect = 3e-35
+ Identities = 114/128 (89%), Gaps = 1/128 (1%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACA  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  257  GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTAAACA  316
+
+Query  62   CGACGGTGTTTCGGCACTGTTGTTGC-TTCGCCAAAGTTGATCAAACTTGATGATTTGGA  120
+               |||||  |||| |  |   |||| || ||||||||||||||||||||||||||||||
+Sbjct  317  TTGCGGTGCCTCGGTATCGCGATTGCTTTTGCCAAAGTTGATCAAACTTGATGATTTGGA  376
+
+Query  121  GGAAATAA  128
+            ||||||||
+Sbjct  377  GGAAATAA  384
+
+
+>AY821866.1 Dicrotendipes fumidus 18S ribosomal RNA gene, partial sequence; 
+internal transcribed spacer 1, 5.8S ribosomal RNA gene, and 
+internal transcribed spacer 2, complete sequence; and 28S 
+ribosomal RNA gene, partial sequence
+Length=1149
+
+ Score = 152 bits (82),  Expect = 2e-33
+ Identities = 114/129 (88%), Gaps = 3/129 (2%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACA  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  186  GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTAAACA  245
+
+Query  62   CGACGGTGTTTCGGCACTGTTG-TTGC-TTCGCCAAAGTTGATCAAACTTGATGATTTGG  119
+               || |   |||| | | | | |||| || |||||||||||||||||||||||||||||
+Sbjct  246  TTGCGATACCTCGGTA-TTTCGATTGCTTTTGCCAAAGTTGATCAAACTTGATGATTTGG  304
+
+Query  120  AGGAAATAA  128
+            |||||||||
+Sbjct  305  AGGAAATAA  313
+
+
+>AJ586561.1 Acricotopus lucens partial 18S rRNA gene, clone AlSo18S-3
+Length=1939
+
+ Score = 152 bits (82),  Expect = 2e-33
+ Identities = 113/128 (88%), Gaps = 1/128 (1%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACA  61
+             |||||||||||||||||||| ||||||||| |||||||||||||||| ||||||||||| 
+Sbjct  1786  GTACACACCGCCCGTCGCTAGTACCGACGAGTTATTTAGTGAGATCTTTGGAGGTGAACT  1845
+
+Query  62    CGACGGTGTTTCG-GCACTGTTGTTGCTTCGCCAAAGTTGATCAAACTTGATGATTTGGA  120
+             | ||||||  | |  |||||| ||||  | ||||||||||||||||||||||||||||||
+Sbjct  1846  CTACGGTGACTTGTTCACTGTGGTTGAATTGCCAAAGTTGATCAAACTTGATGATTTGGA  1905
+
+Query  121   GGAAATAA  128
+             |||| |||
+Sbjct  1906  GGAACTAA  1913
+
+
+>AB704953.1 Polypedilum tamanigrum genes for 18S rRNA, ITS1 and 5.8S rRNA, 
+partial and complete sequence, isolate: ent09
+Length=495
+
+ Score = 137 bits (74),  Expect = 4e-29
+ Identities = 95/105 (90%), Gaps = 1/105 (1%)
+ Strand=Plus/Plus
+
+Query  25   CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACACGACGGTGTTTCGGCACTGTTGT  84
+            |||||||||||||||||||||||||||||||||| |    || |||||||||||||   |
+Sbjct  1    CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAGCGTTGCGATGTTTCGGCACTGCGAT  60
+
+Query  85   TG-CTTCGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  128
+            || ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   TGCCTTCGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  105
+
+
+>LN833602.1 Clunio marinus genomic DNA sequence contains 18S rRNA gene, ITSITS1, 
+5.8S rRNA gene, ITS2, 28S rRNA gene, isolate Jean
+Length=7572
+
+ Score = 132 bits (71),  Expect = 2e-27
+ Identities = 110/129 (85%), Gaps = 2/129 (2%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTATTACCGACGAATTATTTAGTGAGATCTCTGGAGGTGAA-C  60
+             |||||||||||||||||||| ||||||||| ||  |||||||||||| |||||| ||  |
+Sbjct  6801  GTACACACCGCCCGTCGCTACTACCGACGAGTTGCTTAGTGAGATCTTTGGAGGCGATGC  6860
+
+Query  61    ACGACGGTGTTTCGGCACTGTTGTTGCT-TCGCCAAAGTTGATCAAACTTGATGATTTGG  119
+             || |  ||| ||||| |||   |||||| | |||||||||||||||||||||||||||||
+Sbjct  6861  ACTAAAGTGCTTCGGTACTTCGGTTGCTATTGCCAAAGTTGATCAAACTTGATGATTTGG  6920
+
+Query  120   AGGAAATAA  128
+             ||||| |||
+Sbjct  6921  AGGAAGTAA  6929
+
+
+>AB704950.1 Polypedilum cultellatum genes for 18S rRNA, ITS1 and 5.8S rRNA, 
+partial and complete sequence, isolate: ent06
+Length=534
+
+ Score = 132 bits (71),  Expect = 2e-27
+ Identities = 93/104 (89%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  25   CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACACGACGGTGTTTCGGCACTGTTGT  84
+            |||||||||||||||||||||||||||||||||| |    || |||||||||| ||   |
+Sbjct  1    CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAGCGTTGCGATGTTTCGGCATTGCGAT  60
+
+Query  85   TGCTTCGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  128
+            || |||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   TGTTTCGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  104
+
+
+>AB704948.1 Paraborniella tonnoiri genes for 18S rRNA, ITS1 and 5.8S rRNA, 
+partial and complete sequence, isolate: ent04
+Length=471
+
+ Score = 126 bits (68),  Expect = 1e-25
+ Identities = 94/106 (89%), Gaps = 3/106 (3%)
+ Strand=Plus/Plus
+
+Query  25   CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACACGACGGTGTTTCGGCACTGTTG-  83
+            |||||||||||||||||||||||||||||||||||||    | |||||||||| |   | 
+Sbjct  1    CCGACGAATTATTTAGTGAGATCTCTGGAGGTGAACATTGTGATGTTTCGGCA-TTACGA  59
+
+Query  84   TTGC-TTCGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  128
+            |||| || ||||||||||||||||||||||||||||||||||||||
+Sbjct  60   TTGCTTTTGCCAAAGTTGATCAAACTTGATGATTTGGAGGAAATAA  105
+
+
+>AB704958.1 Paratanytarsus grimmii genes for 18S rRNA, ITS1 and 5.8S rRNA, 
+partial and complete sequence, isolate: ent14
+Length=429
+
+ Score = 124 bits (67),  Expect = 3e-25
+ Identities = 82/89 (92%), Gaps = 2/89 (2%)
+ Strand=Plus/Plus
+
+Query  40   GTGAGATCTCTGGAGGTGAACACGACGGTGTTTCGGCACTGTTGTTGCTTCGCCAAAGTT  99
+            ||||||||||||||| || |||||||||| |||||| |||| ||||| || |||||||||
+Sbjct  1    GTGAGATCTCTGGAG-TG-ACACGACGGTATTTCGGTACTGATGTTGATTTGCCAAAGTT  58
+
+Query  100  GATCAAACTTGATGATTTGGAGGAAATAA  128
+            |||||||||||||||||||||||||||||
+Sbjct  59   GATCAAACTTGATGATTTGGAGGAAATAA  87
+
+
+Query= Otu000003|
+
+Length=103
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+KF524419.1  Vorticella campanula isolate Whpop4 18S ribosomal ...  189     1e-44
+KF524413.1  Vorticella cf. campanula isolate Dupop 18S ribosom...  189     1e-44
+KF524385.1  Vorticella campanula isolate Qdpop2 18S ribosomal ...  189     1e-44
+KF524384.1  Vorticella campanula isolate Qdpop1 18S ribosomal ...  189     1e-44
+KF524376.1  Vorticella campanula isolate Gepop 18S ribosomal R...  189     1e-44
+GU187050.1  Vorticella sp. SP-2009-3 18S ribosomal RNA gene, p...  189     1e-44
+GU586185.1  Vorticella sp. 18 PPS-2010 18S ribosomal RNA gene,...  189     1e-44
+AF401526.1  Ophrydium versatile small subunit ribosomal RNA ge...  189     1e-44
+AF429894.1  Ophrydium versatile 18S ribosomal RNA gene, partia...  189     1e-44
+KF524417.1  Vorticella campanula isolate Qdpop3 18S ribosomal ...  183     6e-43
+
+ALIGNMENTS
+>KF524419.1 Vorticella campanula isolate Whpop4 18S ribosomal RNA gene, partial 
+sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete sequence; 
+and 28S ribosomal RNA gene, partial sequence
+Length=663
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  119
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  120  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  161
+
+
+>KF524413.1 Vorticella cf. campanula isolate Dupop 18S ribosomal RNA gene, 
+partial sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete 
+sequence; and 28S ribosomal RNA gene, partial sequence
+Length=663
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  119
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  120  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  161
+
+
+>KF524385.1 Vorticella campanula isolate Qdpop2 18S ribosomal RNA gene, partial 
+sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete sequence; 
+and 28S ribosomal RNA gene, partial sequence
+Length=662
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  119
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  120  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  161
+
+
+>KF524384.1 Vorticella campanula isolate Qdpop1 18S ribosomal RNA gene, partial 
+sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete sequence; 
+and 28S ribosomal RNA gene, partial sequence
+Length=663
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  119
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  120  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  161
+
+
+>KF524376.1 Vorticella campanula isolate Gepop 18S ribosomal RNA gene, partial 
+sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete sequence; 
+and 28S ribosomal RNA gene, partial sequence
+Length=661
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  119
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  120  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  161
+
+
+>GU187050.1 Vorticella sp. SP-2009-3 18S ribosomal RNA gene, partial sequence
+Length=1602
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1498  GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  1557
+
+Query  62    AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+             ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1558  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  1599
+
+
+>GU586185.1 Vorticella sp. 18 PPS-2010 18S ribosomal RNA gene, partial sequence; 
+internal transcribed spacer 1, 5.8S ribosomal RNA gene, 
+and internal transcribed spacer 2, complete sequence; and 
+28S ribosomal RNA gene, partial sequence
+Length=662
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  58   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  117
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  118  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  159
+
+
+>AF401526.1 Ophrydium versatile small subunit ribosomal RNA gene, complete 
+sequence
+Length=1727
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1586  GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  1645
+
+Query  62    AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+             ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1646  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  1687
+
+
+>AF429894.1 Ophrydium versatile 18S ribosomal RNA gene, partial sequence; 
+internal transcribed spacer 1, complete sequence; and 5.8S 
+ribosomal RNA gene, partial sequence
+Length=385
+
+ Score = 189 bits (102),  Expect = 1e-44
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  71   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  130
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  131  AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  172
+
+
+>KF524417.1 Vorticella campanula isolate Qdpop3 18S ribosomal RNA gene, partial 
+sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete sequence; 
+and 28S ribosomal RNA gene, partial sequence
+ KF524418.1 Vorticella campanula isolate Qdpop4 18S ribosomal RNA gene, partial 
+sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete sequence; 
+and 28S ribosomal RNA gene, partial sequence
+ KF524421.1 Vorticella campanula isolate Whpop6 18S ribosomal RNA gene, partial 
+sequence; internal transcribed spacer 1, 5.8S ribosomal 
+RNA gene, and internal transcribed spacer 2, complete sequence; 
+and 28S ribosomal RNA gene, partial sequence
+Length=663
+
+ Score = 183 bits (99),  Expect = 6e-43
+ Identities = 101/102 (99%), Gaps = 0/102 (0%)
+ Strand=Plus/Plus
+
+Query  2    GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   GTACACACCGCCCGTCGCTTTTACCGATTGAGTGTTCAGGTGAGTCTTCTTGATAGTTGC  119
+
+Query  62   AAAATTAAAAATTAAACAAACCTTAGCACTTAGAGGAAAAAG  103
+            ||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  120  AAAATTAAAAATTAAACAAACCTTAGCACCTAGAGGAAAAAG  161
+
+
+Query= Otu000004|
+
+Length=126
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+KM020182.1  Schizomeris leibleinii strain SAG 42.96 18S riboso...  215     2e-52
+KM020163.1  Schizomeris leibleinii strain SAG 44.84 18S riboso...  215     2e-52
+KM020160.1  Schizomeris leibleinii strain SAG 24.88 18S riboso...  215     2e-52
+FN824399.1  Schizomeris leibleinii partial 18S rRNA gene, cult...  215     2e-52
+AF182820.1  Schizomeris leibleinii strain UTEXLB1228 18S ribos...  196     7e-47
+FN824398.1  Aphanochaete elegans partial 18S rRNA gene, cultur...  176     9e-41
+KC145436.1  Sphaeropleales sp. KF-2013d strain SAG 2265 18S ri...  171     4e-39
+FN824397.1  Aphanochaete repens partial 18S rRNA gene, culture...  171     4e-39
+EF024750.1  Eimeriidae environmental sample clone Elev_18S_124...  171     4e-39
+EF024307.1  Eimeriidae environmental sample clone Elev_18S_713...  171     4e-39
+
+ALIGNMENTS
+>KM020182.1 Schizomeris leibleinii strain SAG 42.96 18S ribosomal RNA gene, 
+partial sequence
+Length=1747
+
+ Score = 215 bits (116),  Expect = 2e-52
+ Identities = 122/125 (98%), Gaps = 0/125 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||
+Sbjct  1604  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGAGGG  1663
+
+Query  62    CGTGCTGGTGGTTCCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  121
+             ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1664  CGTGCTGGTGGTTTCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  1723
+
+Query  122   AGGAG  126
+             |||||
+Sbjct  1724  AGGAG  1728
+
+
+>KM020163.1 Schizomeris leibleinii strain SAG 44.84 18S ribosomal RNA gene, 
+partial sequence
+Length=1769
+
+ Score = 215 bits (116),  Expect = 2e-52
+ Identities = 122/125 (98%), Gaps = 0/125 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||
+Sbjct  1603  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGAGGG  1662
+
+Query  62    CGTGCTGGTGGTTCCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  121
+             ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1663  CGTGCTGGTGGTTTCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  1722
+
+Query  122   AGGAG  126
+             |||||
+Sbjct  1723  AGGAG  1727
+
+
+>KM020160.1 Schizomeris leibleinii strain SAG 24.88 18S ribosomal RNA gene, 
+partial sequence
+Length=1751
+
+ Score = 215 bits (116),  Expect = 2e-52
+ Identities = 122/125 (98%), Gaps = 0/125 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||
+Sbjct  1605  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGAGGG  1664
+
+Query  62    CGTGCTGGTGGTTCCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  121
+             ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1665  CGTGCTGGTGGTTTCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  1724
+
+Query  122   AGGAG  126
+             |||||
+Sbjct  1725  AGGAG  1729
+
+
+>FN824399.1 Schizomeris leibleinii partial 18S rRNA gene, culture collection 
+SAG:24.88
+ FN824400.1 Schizomeris leibleinii partial 18S rRNA gene, culture collection 
+SAG:44.84
+Length=1775
+
+ Score = 215 bits (116),  Expect = 2e-52
+ Identities = 122/125 (98%), Gaps = 0/125 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||
+Sbjct  1605  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGAGGG  1664
+
+Query  62    CGTGCTGGTGGTTCCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  121
+             ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1665  CGTGCTGGTGGTTTCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGGA  1724
+
+Query  122   AGGAG  126
+             |||||
+Sbjct  1725  AGGAG  1729
+
+
+>AF182820.1 Schizomeris leibleinii strain UTEXLB1228 18S ribosomal RNA gene, 
+partial sequence
+Length=1684
+
+ Score = 196 bits (106),  Expect = 7e-47
+ Identities = 106/106 (100%), Gaps = 0/106 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1579  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  1638
+
+Query  62    CGTGCTGGTGGTTCCACTAGCCGCTTTCGAGAAGTTCATTAAACCC  107
+             ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1639  CGTGCTGGTGGTTCCACTAGCCGCTTTCGAGAAGTTCATTAAACCC  1684
+
+
+>FN824398.1 Aphanochaete elegans partial 18S rRNA gene, culture collection 
+SAG:4.91
+Length=1775
+
+ Score = 176 bits (95),  Expect = 9e-41
+ Identities = 117/127 (92%), Gaps = 4/127 (3%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAG-  60
+             ||||||||||||||||||||||||||||||||||||||||||||| ||||||| || || 
+Sbjct  1605  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGCGTTCGGACTG-AGC  1663
+
+Query  61    GCGTGCTGGTGGTTCCA-CTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAG  119
+             |||||| |||||||||| || ||||| |||| ||||||| ||||||||||||||||||||
+Sbjct  1664  GCGTGCGGGTGGTTCCATCT-GCCGCATTCGGGAAGTTCGTTAAACCCTCCCACCTAGAG  1722
+
+Query  120   GAAGGAG  126
+             |||||||
+Sbjct  1723  GAAGGAG  1729
+
+
+>KC145436.1 Sphaeropleales sp. KF-2013d strain SAG 2265 18S ribosomal RNA 
+gene, partial sequence
+Length=1750
+
+ Score = 171 bits (92),  Expect = 4e-39
+ Identities = 116/127 (91%), Gaps = 4/127 (3%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  1603  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGCGG  1662
+
+Query  62    CGTGCTGGTGGT-TCCA-CTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAG  119
+             | ||| |||||| |||| || ||  |   |||||||||||||||||||||||||||||||
+Sbjct  1663  C-TGCGGGTGGTCTCCATCT-GCTACCGCCGAGAAGTTCATTAAACCCTCCCACCTAGAG  1720
+
+Query  120   GAAGGAG  126
+             |||||||
+Sbjct  1721  GAAGGAG  1727
+
+
+>FN824397.1 Aphanochaete repens partial 18S rRNA gene, culture collection 
+SAG:21.91
+Length=1775
+
+ Score = 171 bits (92),  Expect = 4e-39
+ Identities = 115/126 (91%), Gaps = 2/126 (2%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAG-  60
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || 
+Sbjct  1605  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTG-AGC  1663
+
+Query  61    GCGTGCTGGTGGTTCCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGG  120
+             ||| || |||||||||| | |||||  |  | ||||||||||||||||||||||||||||
+Sbjct  1664  GCGCGCGGGTGGTTCCATTCGCCGCGCTTAAAAAGTTCATTAAACCCTCCCACCTAGAGG  1723
+
+Query  121   AAGGAG  126
+             ||||||
+Sbjct  1724  AAGGAG  1729
+
+
+>EF024750.1 Eimeriidae environmental sample clone Elev_18S_1249 18S ribosomal 
+RNA gene, partial sequence
+ EF024862.1 Eimeriidae environmental sample clone Elev_18S_1383 18S ribosomal 
+RNA gene, partial sequence
+Length=1784
+
+ Score = 171 bits (92),  Expect = 4e-39
+ Identities = 115/126 (91%), Gaps = 2/126 (2%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||  |
+Sbjct  1626  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGCAG  1685
+
+Query  62    CGTGCTGGTGGT-TCCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGG  120
+                ||||||||| |||| ||||  ||  ||||||||||||||||||||||||||||||||
+Sbjct  1686  -AAGCTGGTGGTCTCCATTAGCTACTGCCGAGAAGTTCATTAAACCCTCCCACCTAGAGG  1744
+
+Query  121   AAGGAG  126
+             ||||||
+Sbjct  1745  AAGGAG  1750
+
+
+>EF024307.1 Eimeriidae environmental sample clone Elev_18S_713 18S ribosomal 
+RNA gene, partial sequence
+Length=1783
+
+ Score = 171 bits (92),  Expect = 4e-39
+ Identities = 115/126 (91%), Gaps = 2/126 (2%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGAGG  61
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||  |
+Sbjct  1626  GTACACACCGCCCGTCGCTCCTACCGATTGGGTGTGCTGGTGAAGTGTTCGGATTGGCAG  1685
+
+Query  62    CGTGCTGGTGGT-TCCACTAGCCGCTTTCGAGAAGTTCATTAAACCCTCCCACCTAGAGG  120
+                ||||||||| |||| ||||  ||  ||||||||||||||||||||||||||||||||
+Sbjct  1686  -AAGCTGGTGGTCTCCATTAGCTACTGCCGAGAAGTTCATTAAACCCTCCCACCTAGAGG  1744
+
+Query  121   AAGGAG  126
+             ||||||
+Sbjct  1745  AAGGAG  1750
+
+
+Query= Otu000005|
+
+Length=125
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+KJ961709.1  Eunotia sp. 63 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961707.1  Eunotia sp. 62 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961706.1  Eunotia sp. 60 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961699.1  Eunotia sp. 30 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961698.1  Eunotia sp. 11 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961695.1  Eunotia sp. 18 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961693.1  Eunotia sp. 56 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961692.1  Eunotia sp. 116 18S ribosomal RNA gene, partial se...  230     7e-57
+KJ961691.1  Eunotia sp. 28 18S ribosomal RNA gene, partial seq...  230     7e-57
+KJ961688.1  Eunotia sp. 5 LKM-2015 18S ribosomal RNA gene, par...  230     7e-57
+
+ALIGNMENTS
+>KJ961709.1 Eunotia sp. 63 18S ribosomal RNA gene, partial sequence
+Length=1782
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1616  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1675
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1676  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1735
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1736  GGTG  1739
+
+
+>KJ961707.1 Eunotia sp. 62 18S ribosomal RNA gene, partial sequence
+Length=1782
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1616  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1675
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1676  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1735
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1736  GGTG  1739
+
+
+>KJ961706.1 Eunotia sp. 60 18S ribosomal RNA gene, partial sequence
+Length=1782
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1616  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1675
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1676  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1735
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1736  GGTG  1739
+
+
+>KJ961699.1 Eunotia sp. 30 18S ribosomal RNA gene, partial sequence
+Length=1648
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1481  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1540
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1541  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1600
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1601  GGTG  1604
+
+
+>KJ961698.1 Eunotia sp. 11 18S ribosomal RNA gene, partial sequence
+Length=1648
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1482  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1541
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1542  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1601
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1602  GGTG  1605
+
+
+>KJ961695.1 Eunotia sp. 18 18S ribosomal RNA gene, partial sequence
+Length=1780
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1615  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1674
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1675  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1734
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1735  GGTG  1738
+
+
+>KJ961693.1 Eunotia sp. 56 18S ribosomal RNA gene, partial sequence
+Length=1780
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1614  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1673
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1674  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1733
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1734  GGTG  1737
+
+
+>KJ961692.1 Eunotia sp. 116 18S ribosomal RNA gene, partial sequence
+Length=1783
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1616  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1675
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1676  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1735
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1736  GGTG  1739
+
+
+>KJ961691.1 Eunotia sp. 28 18S ribosomal RNA gene, partial sequence
+Length=1779
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1613  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1672
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1673  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1732
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1733  GGTG  1736
+
+
+>KJ961688.1 Eunotia sp. 5 LKM-2015 18S ribosomal RNA gene, partial sequence
+Length=1786
+
+ Score = 230 bits (124),  Expect = 7e-57
+ Identities = 124/124 (100%), Gaps = 0/124 (0%)
+ Strand=Plus/Plus
+
+Query  2     GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  61
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1619  GTACACACCGCCCGTCGCACCTACCGATTGAATGGTCCGGTGAAGCCTCGGGATTGTGAC  1678
+
+Query  62    GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  121
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1679  GATTTCCCTTTATTGGGAGGTTGTTGCGAGAACTTGTCTAAACCTTATCATTTAGAGGAA  1738
+
+Query  122   GGTG  125
+             ||||
+Sbjct  1739  GGTG  1742
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  May 18, 2017  10:21 AM
+  Number of letters in database: 145,634,228,515
+  Number of sequences in database:  42,447,360
+
+Lambda      K        H
+    1.33    0.621     1.12 
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+Matrix: blastn matrix:1 -2
+Gap Penalties: Existence: 0, Extension: 0
+Number of Sequences: 42447360
+Number of Hits to DB: 2621311
+Number of extensions: 4185
+Number of successful extensions: 4185
+Number of sequences better than 10: 182
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 4167
+Number of HSP's successfully gapped: 4163
+Length of database: 145634228515
+A: 0
+X1: 13 (25.0 bits)
+X2: 32 (59.1 bits)
+X3: 54 (99.7 bits)
+S1: 13 (25.1 bits)
+
+
+
+

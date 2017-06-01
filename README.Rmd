@@ -21,6 +21,49 @@ library(devtools)
 install_github('fawda123/fastblast')
 library(fastblast)
 ```
+```{r eval = T, echo = F, results = F, message = F}
+devtools::load_all()
+````
 
 ## Using the functions
+
+Format a fasta file for BLAST with `formfst`:
+
+```{r}
+# path to input file
+flin <- 'inst/fst_ex.fasta'
+
+# execute
+formfst(flin)
+```
+
+Save the file:
+
+```{r, eval = F}
+# file name
+flout <- 'out.txt'
+
+# execute
+formfst(flin, flout)
+```
+
+Retrieve relevant info from BLAST file with `formbls`:
+
+```{r}
+# path to input file
+flin <- 'inst/bls_ex.txt'
+
+# execute
+formbls(flin)
+```
+
+Save the file:
+
+```{r, eval = F}
+# file name
+flout <- 'out.txt'
+
+# execute
+formbls(flin, flout)
+```
 

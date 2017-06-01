@@ -5,11 +5,13 @@ Version: 0.0.1.9000
 Date: 2017-06-01
 Author: Marcus W. Beck [aut, cre]
 Maintainer: Marcus W. Beck <beck.marcus@epa.gov>
-Description: Functions for Mothur Fasta Files and Blast
+Description: Functions for Mothur Fasta Files and Blast.
 BugReports: https://github.com/fawda123/fastablast/issues
 License: CC0
 Imports:
-    dplyr
+    dplyr,
+    purrr, 
+    tibble
 LazyData: true
 Depends:
     R (>= 3.2.0)

@@ -3,9 +3,7 @@
 #' Format fasta file for use with Blast
 #'
 #' @param flin chr string of path for Fasta file
-#' @param flout chr string of file to save for BLAST
-#' 
-#' @details 
+#' @param flout chr string of file to save for BLAST, output returned to console if \code{NULL}
 #' 
 #' @export
 #' 
@@ -13,14 +11,10 @@
 #' 
 #' @examples
 #' \dontrun{
-#' flin <- 'inst/ex.fasta'
+#' flin <- 'inst/fst_ex.fasta'
 #' formfst(flin)
 #' }
 formfst <- function(flin, flout = NULL){
-
-  # output file name if not provided
-  if(is.null(flout))
-    flout <- 'flout.txt'
     
   # read flin
   dat <- readLines(flin)
@@ -39,6 +33,10 @@ formfst <- function(flin, flout = NULL){
   out <- cbind(otus, seqs) %>% 
     t %>% 
     c
+  
+  # output file name if not provided
+  if(is.null(flout))
+    return(out)
   
   # write output  
   writeLines(out,  flout)
