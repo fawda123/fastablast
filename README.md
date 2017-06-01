@@ -1,4 +1,4 @@
-# fastblast: functions for Mothur fasta files and BLAST
+# fastablast: functions for Mothur fasta files and BLAST
 Marcus W. Beck, beck.marcus@epa.gov  
 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/fawda123/fastablast?branch=master&svg=true)](https://ci.appveyor.com/project/fawda123/fastablast)
@@ -14,8 +14,8 @@ The development version of this package can be installed as follows:
 ```r
 install.packages('devtools')
 library(devtools)
-install_github('fawda123/fastblast')
-library(fastblast)
+install_github('fawda123/fastablast')
+library(fastablast)
 ```
 
 
