@@ -10,8 +10,10 @@
 #' @import dplyr
 #' 
 #' @examples
-#' flin <- 'inst/bls_ex.txt'
+#' \dontrun{
+#' flin <- 'extdata/bls_ex.txt'
 #' formbls(flin)
+#' }
 formbls <- function(flin, flout = NULL){
   
   # read flin
