@@ -15,9 +15,7 @@ formfst(flin, flout = NULL)
 Format fasta file for use with Blast
 }
 \examples{
-\dontrun{
-flin <- 'extdata/fst_ex.fasta'
+flin <- system.file("extdata", "fst_ex.fasta", package = "fastablast")
 formfst(flin)
-}
 }
 

@@ -15,9 +15,7 @@ formbls(flin, flout = NULL)
 Get relevant BLAST data from output file
 }
 \examples{
-\dontrun{
-flin <- 'extdata/bls_ex.txt'
+flin <- system.file("extdata", "bls_ex.txt", package = "fastablast")
 formbls(flin)
-}
 }
 

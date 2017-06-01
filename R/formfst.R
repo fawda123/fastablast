@@ -10,10 +10,8 @@
 #' @import dplyr
 #' 
 #' @examples
-#' \dontrun{
-#' flin <- 'extdata/fst_ex.fasta'
+#' flin <- system.file("extdata", "fst_ex.fasta", package = "fastablast")
 #' formfst(flin)
-#' }
 formfst <- function(flin, flout = NULL){
     
   # read flin
